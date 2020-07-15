@@ -1,0 +1,4 @@
+INFO - Connection to Google was successful.
+CRITICAL - Deficiency file created with errors. Error: ('42S22', "[42S22] [Microsoft][SQL Server Native Client 11.0][SQL Server]Invalid column name 'TypeNamek'. (207) (SQLExecDirectW); [42S22] [Microsoft][SQL Server Native Client 11.0][SQL Server]Statement(s) could not be prepared. (8180)")
+INFO - Connection to Google was successful.
+INFO - Deficiency file created successfully.
